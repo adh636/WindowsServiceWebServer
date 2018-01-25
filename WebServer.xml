@@ -4,4 +4,6 @@
   <id>CineNetWebServer</id>
   <name>CineNetWebServer</name>
   <description>CineNet Service for CineNetWebServer</description>
+  <executable>node-v8.9.4-win-x64\node-v8.9.4-win-x64\node.exe</executable>
+  <argument>ExpressWebServer.js</argument>
 </service>
