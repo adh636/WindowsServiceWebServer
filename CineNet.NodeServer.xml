@@ -1,14 +1,7 @@
 <!-- https://github.com/kohsuke/winsw/blob/master/doc/xmlConfigFile.md -->
 
 <service>
-  <id>CineNetNodeServer</id>
-  <name>CineNetNodeServer</name>
-  <description>CineNet Service for CineNetNodeServer</description>
-  <executable>C:\dev\CineNet.NodeServer\node\node.exe</executable>
-  <argument>C:\dev\CineNet.NodeServer\InstallerUI\ExpressWebServer.js</argument>
-  <startmode>Manual</startmode>
-  <interactive />
-  <onfailure action="restart" delay="10 sec"/>
-  <onfailure action="restart" delay="20 sec"/>
-  <onfailure action="none" delay="30 sec"/>
+  <id>CineNetWebServer</id>
+  <name>CineNetWebServer</name>
+  <description>CineNet Service for CineNetWebServer</description>
 </service>
