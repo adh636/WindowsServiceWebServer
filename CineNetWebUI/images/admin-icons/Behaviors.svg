@@ -1,0 +1,19 @@
+<svg viewBox="0 0 34.05 31.55" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+  <defs>
+    <style>.a,.b,.d{fill:none;stroke:#333;stroke-miterlimit:10;}.b{stroke-linecap:round;}.b,.d{stroke-width:0.3px;}.c{fill:#fff;}.e{fill:#333;}</style>
+  </defs>
+  <title>Behaviours</title>
+  <g>
+    <title>Layer 1</title>
+    <g stroke="null" id="svg_9">
+      <rect fill="black" id="svg_1" height="11.81043" width="11.26973" y="4.10406" x="4.49964" class="a"/>
+      <rect fill="black" id="svg_2" height="11.81043" width="11.26973" y="16.78641" x="18.49227" class="b"/>
+      <path stroke="null" id="svg_3" d="m5.1728,19.15642s-0.68829,7.8472 7.48794,7.8472" class="c"/>
+      <path stroke="null" id="svg_4" d="m5.1728,19.15642s-0.68829,7.8472 7.48794,7.8472" class="d"/>
+      <polygon stroke="null" id="svg_5" points="12.025404930114746,27.883455276489258 12.38089370727539,27.003618240356445 12.025404930114746,26.123781204223633 14.014626502990723,27.003618240356445 12.025404930114746,27.883455276489258 " class="e"/>
+      <path stroke="null" id="svg_6" d="m28.80899,13.23535s0.68829,-7.8472 -7.48794,-7.8472" class="c"/>
+      <path stroke="null" id="svg_7" d="m28.80899,13.23535s0.68829,-7.8472 -7.48794,-7.8472" class="d"/>
+      <polygon stroke="null" id="svg_8" points="21.96394920349121,4.516241073608398 21.608461380004883,5.396078586578369 21.96394920349121,6.27591609954834 19.967164993286133,5.396078586578369 21.96394920349121,4.516241073608398 " class="e"/>
+    </g>
+  </g>
+</svg>

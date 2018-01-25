@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1896.1 1079.27">
+  <defs>
+    <style>
+      .a,.d{fill:#ccc;}.a{stroke:#666;stroke-width:35.42px;}.a,.b,.c,.d{stroke-miterlimit:10;}.b,.c{fill:none;}.b,.c,.d{stroke:#676767;}.b,.d{stroke-width:20.05px;}.c{stroke-width:8.73px;}.e{fill:#666;}
+    </style>
+  </defs>
+  <title>Soft-KVM-5-ico</title>
+  <!--<rect class="a" x="17.71" y="17.71" width="1860.68" height="1043.85"/>-->
+  <rect class="b" x="581.97" y="261.33" width="687.72" height="455.37" rx="20.05" ry="20.05"/>
+  <rect class="b" x="217.46" y="182.57" width="278.87" height="651.9" rx="20.05" ry="20.05"/>
+  <line class="b" x1="925.83" y1="716.7" x2="925.83" y2="824.44"/>
+  <line class="b" x1="776.74" y1="824.44" x2="1095.1" y2="824.44"/>
+  <rect class="c" x="251.28" y="222.69" width="216.96" height="58.71" rx="20.05" ry="20.05"/>
+  <circle class="c" cx="356.9" cy="359" r="24.26"/>
+  <rect class="c" x="621.47" y="303.17" width="601.56" height="374.3" rx="20.05" ry="20.05"/>
+  <rect class="d" x="1151.55" y="626.97" width="573.27" height="287.13"/>
+  <rect class="e" x="1281.92" y="819.16" width="296.87" height="37.14"/>
+  <rect class="e" x="1207.86" y="819.16" width="36.96" height="37.14"/>
+  <rect class="e" x="1615.74" y="819.16" width="37.14" height="37.14"/>
+  <rect class="e" x="1541.69" y="744.87" width="37.14" height="37.14"/>
+  <rect class="e" x="1467.4" y="744.87" width="37.14" height="37.14"/>
+  <rect class="e" x="1393.35" y="744.87" width="36.96" height="37.14"/>
+  <rect class="e" x="1319.06" y="744.87" width="37.14" height="37.14"/>
+  <rect class="e" x="1244.78" y="744.87" width="37.14" height="37.14"/>
+  <rect class="e" x="1504.55" y="670.82" width="37.14" height="36.96"/>
+  <path class="e" d="M1578.94,669.82v36.91h36.91V781H1653V669.82Zm0,0" transform="translate(-0.11 1)"/>
+  <rect class="e" x="1430.26" y="670.82" width="37.14" height="36.96"/>
+  <rect class="e" x="1356.21" y="670.82" width="37.14" height="36.96"/>
+  <rect class="e" x="1281.92" y="670.82" width="37.14" height="36.96"/>
+  <rect class="e" x="1207.86" y="670.82" width="36.96" height="36.96"/>
+</svg>
