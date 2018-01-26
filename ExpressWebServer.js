@@ -1,7 +1,7 @@
 var express = require("express");
 var app = express();
 
-app.use(express.static(__dirname + "/CineNetWebUI"));
+app.use(express.static(__dirname + "/SampleUI"));
 
 var server = app.listen(80, function () {
    var host = server.address().address
