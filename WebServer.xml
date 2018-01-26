@@ -1,9 +1,9 @@
 <!-- https://github.com/kohsuke/winsw/blob/master/doc/xmlConfigFile.md -->
 
 <service>
-  <id>CineNetWebServer</id>
-  <name>CineNetWebServer</name>
-  <description>CineNet Service for CineNetWebServer</description>
+  <id>ExpressWebServer</id>
+  <name>ExpressWebServer</name>
+  <description>Windows Service to wrap Express WebServer</description>
   <executable>node.exe</executable>
   <argument>ExpressWebServer.js</argument>
 </service>
